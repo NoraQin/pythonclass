@@ -1,3 +1,0 @@
-Workout,7
-Coding,1
-Preparing tomorrow's lunch,2
